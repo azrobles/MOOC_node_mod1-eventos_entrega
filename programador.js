@@ -1,4 +1,4 @@
-const EventEmitter = require('events');
+const EventEmitter = require('./events');
 
 // Importar modulo Later.js:
 const later = require('later');
